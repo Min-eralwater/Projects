@@ -4,3 +4,7 @@
 
 
 2. Exploring the Naive Bayes vs SVM classification approach for sentiment analysis in social media context; code is in "Final with CNN" and report is "Report" 
+
+3. Clinic queue simulation is a small project done to simulate the queues of patients at a clinic and to figure out if there is a real need for addition of staff. 
+
+4. Bunker Fraud was a project done in school with industry collaboration - to identify vessels with suspicious behavior using CBLOF, DBSCan and other methods.
